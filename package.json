@@ -1,0 +1,24 @@
+{
+  "name": "discordbotdersleri",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Serhan",
+  "license": "ISC",
+  "dependencies": {
+    "commando-provider-mongo": "^1.1.1",
+    "discord-bots-api": "0.0.2",
+    "discord.js": "^11.4.2",
+    "discord.js-commando": "^0.10.0",
+    "jimp": "^0.6.0",
+    "moment": "^2.24.0",
+    "mongodb": "^3.1.13",
+    "simple-youtube-api": "^5.1.1",
+    "sqlite": "^3.0.2",
+    "winston": "^3.2.1",
+    "ytdl-core": "^0.29.1"
+  }
+}
